@@ -8,11 +8,7 @@ The project is structured as follows:
 
 - `Crypto_Clustering.ipynb`: This Jupyter notebook contains all the code and visualizations for the clustering analysis.
 
-- `data/`: This directory contains datasets used in the analysis.
-
-- `plots/`: This directory holds the output plots and figures from the analysis.
-
-- `models/`: If applicable, trained models are saved in this directory.
+- `Resources/`: This directory contains datasets used in the analysis.
 
 ## Analysis Overview
 
